@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Gotta Be You",
+  "base_artist": "One Direction",
+  "createdAt": "2026-04-02T00:48:24.187316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Gotta Be You",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/01_It's_Gotta_Be_You_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It’s Gotta Be You",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/02_It’s_Gotta_Be_You_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gotta Be You - Amelle Mix",
+      "artist": "Sugababes",
+      "has_synced": false,
+      "path": "select/03_Gotta_Be_You_-_Amelle_Mix_Sugababes.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "NERVO feat. Carla Monroe",
+      "has_synced": true,
+      "path": "select/04_Gotta_Be_You_NERVO_feat._Carla_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "NERVO",
+      "has_synced": true,
+      "path": "select/05_Gotta_Be_You_NERVO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_Gotta_Be_You_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gotta Be You - Live",
+      "artist": "2NE1",
+      "has_synced": true,
+      "path": "select/07_Gotta_Be_You_-_Live_2NE1.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "너 아님 안돼 (Gotta Be You)",
+      "artist": "2NE1",
+      "has_synced": true,
+      "path": "select/08_너_아님_안돼_(Gotta_Be_You)_2NE1.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gotta Be You (MEH remix)",
+      "artist": "3T",
+      "has_synced": false,
+      "path": "select/09_Gotta_Be_You_(MEH_remix)_3T.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Gotta Be You",
+      "artist": "Isaiah",
+      "has_synced": true,
+      "path": "select/10_It's_Gotta_Be_You_Isaiah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It’s Gotta Be You",
+      "artist": "Isaiah",
+      "has_synced": true,
+      "path": "select/11_It’s_Gotta_Be_You_Isaiah.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Gotta_Be_You_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "2NE1",
+      "has_synced": true,
+      "path": "select/13_Gotta_Be_You_2NE1.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gotta Be You - Live",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_Gotta_Be_You_-_Live_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "Sugababes",
+      "has_synced": false,
+      "path": "select/15_Gotta_Be_You_Sugababes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gotta Be You - Featuring Herbie",
+      "artist": "3T feat. Herbie",
+      "has_synced": true,
+      "path": "select/16_Gotta_Be_You_-_Featuring_Herbie_3T_feat._Herbie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "3T",
+      "has_synced": true,
+      "path": "select/17_Gotta_Be_You_3T.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/18_Gotta_Be_You_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gotta Be You",
+      "artist": "Peter Hollens feat. Colleen Ballinger",
+      "has_synced": true,
+      "path": "select/19_Gotta_Be_You_Peter_Hollens_feat._Colleen_Ballinger.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "You Gotta Be Movin'",
+      "artist": "Corona",
+      "has_synced": true,
+      "path": "select/20_You_Gotta_Be_Movin'_Corona.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "You Gotta Be Safe",
+      "artist": "Twenty 4 Seven",
+      "has_synced": false,
+      "path": "select/21_You_Gotta_Be_Safe_Twenty_4_Seven.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Gotta Be This Or That",
+      "artist": "Benny Goodman",
+      "has_synced": false,
+      "path": "select/22_Gotta_Be_This_Or_That_Benny_Goodman.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Gotta Be Somebody's Blues",
+      "artist": "Jimmy Eat World",
+      "has_synced": true,
+      "path": "select/23_Gotta_Be_Somebody's_Blues_Jimmy_Eat_World.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "You Gotta Be - Recorded Live In London",
+      "artist": "Des'ree",
+      "has_synced": false,
+      "path": "select/24_You_Gotta_Be_-_Recorded_Live_In_London_Des'ree.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Gotta Be Somebody",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/25_Gotta_Be_Somebody_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "If Ya Wanna Be Bad (Ya Gotta Be Good) / Let's Make a Night to Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/26_If_Ya_Wanna_Be_Bad_(Ya_Gotta_Be_Good)___Let's_Make_a_Night_to_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "If Ya Wanna Be Bad — Ya Gotta Be Good \u0000 Let’s Make a Night to Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/27_If_Ya_Wanna_Be_Bad_—_Ya_Gotta_Be_Good_\u0000_Let’s_Make_a_Night_to_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "If Ya Wanna Be Bad-Ya Gotta Be Good / Let's Make A Night To Remember",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/28_If_Ya_Wanna_Be_Bad-Ya_Gotta_Be_Good___Let's_Make_A_Night_To_Remember_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "You Gotta Be (Live In London)",
+      "artist": "Des'ree",
+      "has_synced": false,
+      "path": "select/29_You_Gotta_Be_(Live_In_London)_Des'ree.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "You gotta be [live in London]",
+      "artist": "Des`ree",
+      "has_synced": false,
+      "path": "select/30_You_gotta_be_[live_in_London]_Des`ree.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Gotta Be",
+      "artist": "Jagged Edge",
+      "has_synced": true,
+      "path": "select/31_I_Gotta_Be_Jagged_Edge.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gotta Be You",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Gotta_Be_You_One_Direction.txt"
+    }
+  ]
+}
